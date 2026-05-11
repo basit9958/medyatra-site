@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://basit9958.github.io/medyatra-site/sitemap.xml

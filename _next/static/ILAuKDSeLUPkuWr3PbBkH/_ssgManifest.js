@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fdestinations\u002F[country]","\u002Fdoctors\u002F[slug]","\u002Fhospitals\u002F[slug]","\u002Fspecialties\u002F[specialty]","\u002Ftreatments\u002F[slug]","\u002Ftreatments\u002F[slug]\u002Fcost-in\u002F[city]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
